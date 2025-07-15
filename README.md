@@ -1,2 +1,2 @@
 # higher_order_gmc_filters
-Simulation and analysis of higher-order Gm-C filters using cascaded biquads and ladder topology in Tanner Spice with ideal OTAs.
+This project presents the design and simulation of higher-order Gm-C (GMC) filters using two different topologies: cascaded biquad stages and ladder-type configurations. Simulations are performed using Tanner Spice with ideal OTAs. Key parameters such as gain, cutoff frequency, roll-off rate, and unity gain bandwidth are analyzed and compared. The study aims to evaluate the performance and frequency response characteristics of each topology in higher-order implementations.
